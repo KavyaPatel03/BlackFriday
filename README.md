@@ -1,1 +1,1 @@
-# BlackFriday
+# Black Friday EDA
